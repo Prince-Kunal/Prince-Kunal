@@ -1,4 +1,4 @@
-# Hey, I'm Kunal 👋
+# Hey, I'm Kunal
 
 Computer Science student building software systems and exploring
 AI, security, and backend engineering.

@@ -7,7 +7,7 @@ AI, security, and backend engineering.
 
 ## Currently
 
-- 🏗️ Building **CreateBid**
+- 🏗️ Building **CreteBid**
 - 🛡️ Developing an **AI Red Teaming Platform**
 - 🌱 Exploring **Open Source**
 - 🧠 Improving **DSA and software engineering fundamentals**
@@ -16,7 +16,7 @@ AI, security, and backend engineering.
 
 ## Featured Work
 
-### 🏗️ CreateBid
+### 🏗️ CreteBid
 
 A platform focused on improving how users interact with and understand
 project requirements, enabling discussion and comparison without modifying

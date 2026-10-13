@@ -5,7 +5,7 @@
 # Hi, I'm Prince Kunal
 
 <a href="https://github.com/Prince-Kunal">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=E8573A&center=true&vCenter=true&width=620&lines=AI%2FML+%26+full-stack+developer;Co-founder+%40+Kollide;Red-teaming+AI+agents+with+Siege;Measuring+heart+tissue+with+computer+vision" alt="AI/ML and full-stack developer, co-founder at Kollide, red-teaming AI agents, computer vision research" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=E8573A&center=true&vCenter=true&width=620&lines=AI%2FML+%26+full-stack+developer;Co-founder+%40+Kollide;Red-teaming+AI+agents+with+Siege;Computer+vision+research+%40+GVSU" alt="AI/ML and full-stack developer, co-founder at Kollide, red-teaming AI agents, computer vision research at GVSU" />
 </a>
 
 **B.Tech CSE (AI & ML) student in Bengaluru** · I build ML models, full-stack apps and tools that attack AI agents so they can be made safer.
@@ -67,6 +67,6 @@
 
 <div align="center">
 
-**Hiring for an AI/ML or full-stack internship?** [Let's talk](mailto:kunalprince615@gmail.com) · or ▶ [play my portfolio](PORTFOLIO_URL) as a pixel platformer.
+**Hiring for an AI/ML or full-stack internship?** [Let's talk](mailto:kunalprince615@gmail.com) · or ▶ [play my portfolio](https://princekunal.pages.dev) as a pixel platformer.
 
 </div>
